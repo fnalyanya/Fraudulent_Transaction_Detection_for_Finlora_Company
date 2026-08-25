@@ -8,6 +8,7 @@ __pycache__/
 # env
 Finlora_env/
 
+
 # Distribution / packaging
 .Python
 build/
